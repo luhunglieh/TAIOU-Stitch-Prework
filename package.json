@@ -19,7 +19,7 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   }
-
+}
 import BrowserRouter from 'react-router-dom/BrowserRouter'
 
 ReactDOM.render((
@@ -27,5 +27,3 @@ ReactDOM.render((
      <App />
    </BrowserRouter>
 ), ...)
-
-}
